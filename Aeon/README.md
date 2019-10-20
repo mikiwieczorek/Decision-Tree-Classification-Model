@@ -1,4 +1,4 @@
-# Associaiton Rules and Decision Tree Classificaiton To Predict Negative Reasons For Moving Out
+# Associaiton Rules and Decision Tree Classification To Predict Negative Reasons For Moving Out
 
 ## Aeon Project Overview
 
