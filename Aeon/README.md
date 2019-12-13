@@ -26,7 +26,7 @@
 
 ### 2. Positive Reasons For Moving Out
 
-Table
+ref. to power point presentation
 
 ### Interesting Observations for Positive Reasons to Moving Out
 
@@ -38,7 +38,7 @@ Table
 
 ### Negative Reasons For Moving Out
 
-Table
+ref. to power point presentation
 
 ### Interesting Observations for Negative Reason to Moving Out
 - Overall having no food had a likelihood of moving out despite being combined with life skills
@@ -53,7 +53,8 @@ Table
 - Rent is a large predictor to find out what led to negative moveout reasons followed by and the income and the age of the person
 
 ### Negative Classification Tree
-Tree
+ref. to power point presentation
+
 ### Top Negative Reasons for Moving Out
 - Rent
 - Income
@@ -75,10 +76,10 @@ Tree
 -679 True Incorrect
 -115 False Incorrect
 
-Table
 
 ### How can we address reasons to move out?
 Mission Statement: Aeon's mission is to create and sustain quality affordable homes that strengthen lives and communities.
+
 ### 5. Recommendations
 - Provide career services to reduce the high association moving out of unemployment and educated individuals
 - Increase neighborhood gathering events to encourage more community interaction
